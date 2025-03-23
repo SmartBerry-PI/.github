@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img src="https://i.imgur.com/skxvtQl.png" alt="SmartBerry_logo" height="85"/>
+  <img src="https://i.imgur.com/qjRw1xJ.png" alt="SmartBerry_logo" height="85"/>
 </h3>
 
 # SmartBerry
@@ -52,23 +52,35 @@ Além do aumento da eficiência no uso da água, o SmartBerry contribui para a s
     Nosso site apresenta todas as informações sobre o monitoramento climático aplicado ao cultivo de morangos.Oferecemos informações sobre a nossa tecnologia, beneficios e o nosso simulador financierio.  
     Descubra como nossa tecnologia pode revolucionar sua produção, reduzindo desperdícios e otimizando recursos. Acompanhe estudos de caso, benefícios comprovados vanha conosco em nossa jornada de inovação
 </p>
-<img src="https://i.imgur.com/ppByd8w.png" />
+<img src="https://i.imgur.com/K7IIA68.jpeg" />
+<img src="https://i.imgur.com/8L108sp.png" />
+<img src="https://i.imgur.com/tTNoqUU.png" />
+
+## 🤵 Sobre
+<p>
+Na aba sobre nós é onde estarão as informações de como o projeto surgiu, missão, valores e a equipe por trás da smartberry
+</p>
+<img src="https://i.imgur.com/zpt28cX.png" />
+<img src="https://i.imgur.com/sxAmvNF.png" />
 
 ## 🧑‍💼Cadastro e Login
 <p>
   Com um cadastro simples e seguro, os produtores podem acessar uma plataforma exclusiva, personalizar suas configurações e acompanhar em tempo real as condições da lavoura. O login garante segurança total para que os dados sejam protegidos e acessíveis apenas para os responsáveis pelo cultivo, contando também com a secção esqueci a senha caso o usario a esqueça e possa acessar novamente sem problemas.
 </p>
-<img src="https://i.imgur.com/EC0MMAy.png" /><br> <br> <br>
-<img src="https://i.imgur.com/2SOmLMW.png" /><br>
+<img src="https://i.imgur.com/fXEQw1F.png" />
+<img src="https://i.imgur.com/2SOmLMW.png" />
 
 ## 📈 Dashboard
 <p>
   Nossa dashboard centraliza as informações sobre a umidade do solo, oferecendo análises detalhadas e notificações para que o produtor tome decisões rápidas e assertivas. Com gráficos intuitivos e atualizações em tempo real, o agricultor pode monitorar as condições climáticas e ajustar a irrigação conforme necessário, garantindo a melhor produtividade.
 </p>
-<img src="https://i.imgur.com/NEDIuQG.png"/><br>
+<img src="https://i.imgur.com/upbmiYX.png"/>
 
 ## 🔢 Calculadora
-A calculadora financeira permite que os produtores comparem o retorno financeiro do cultivo com e sem o uso da tecnologia SmartBerry. Além disso, a ferramenta sugere a quantidade ideal de sensores a serem utilizados para obter os melhores resultados. Consulte os cálculos e veja como a automação pode impactar positivamente sua produção.<br>
+<p>
+A calculadora financeira permite que os produtores comparem o retorno financeiro do cultivo com e sem o uso da tecnologia SmartBerry. Além disso, a ferramenta sugere a quantidade ideal de sensores a serem utilizados para obter os melhores resultados. Consulte os cálculos e veja como a automação pode impactar positivamente sua produção.
+</p>
+<img src="https://i.imgur.com/2tpBy1O.png"/>
 
 
 ## 🧱 Banco de Dados
@@ -147,7 +159,7 @@ Consulte nossas tabelas nos repositorios
 </td>
 
 
-<td  align="center"><a  href="https://github.com/KauanPaixao1" ><img src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/468500205_1564495817523559_7555714000647381797_n.jpg?ccb=11-4&oh=01_Q5AaINdhe2bSRD3tTy2wTZNExfs46z4hE5yl8qIDGDMfoot8&oe=67D35B77&_nc_sid=5e03e0&_nc_cat=105" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Kauan </b></sub></a><br /><a  href="https://github.com/KauanPaixao1" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/KauanPaixao1" ><img src="https://i.imgur.com/peUQrIn.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Kauan </b></sub></a><br /><a  href="https://github.com/KauanPaixao1" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 
 
@@ -155,6 +167,6 @@ Consulte nossas tabelas nos repositorios
 </td>
 <td  align="center"><a  href="https://github.com/LeonardoDaSilvaFilho" ><img  src="https://i.imgur.com/qjHEnPs.jpeg" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Leonardo </b></sub></a><br /><a  href="https://github.com/LeonardoDaSilvaFilho" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
-<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://media-gru1-1.cdn.whatsapp.net/v/t61.24694-24/471742381_956381055840986_6369481582552493885_n.jpg?ccb=11-4&oh=01_Q5AaIA7DEGLqNk107XneL-ey-lfePhpcMcqVnIsQsOVsYClX&oe=67DB2F0C&_nc_sid=5e03e0&_nc_cat=109" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+<td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/Y6WVckH.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
 </td>
 </table>
