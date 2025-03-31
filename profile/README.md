@@ -87,19 +87,19 @@ Consulte nossas tabelas nos repositorios
 ## 👤 Equipe
  <table>
  
- <td  align="center"><a  href= "https://github.com/artur-al"><img src="https://avatars.githubusercontent.com/u/198672530?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Jhoel </b></sub></a><br /><a  href="https://github.com/artur-al" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+ <td  align="center"><a  href= "https://github.com/artur-al"><img src="https://avatars.githubusercontent.com/u/198672530?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Athur Alves </b></sub></a><br /><a  href="https://github.com/artur-al" ><img  src="https://avatars.githubusercontent.com/u/116903662?v=4"  width="20"/></a>
  </td>
  
  
- <td  align="center"><a  href= "https://github.com/Arthur-Amaral-cloud" ><img src="https://avatars.githubusercontent.com/u/198659994?v=4"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Arthur Amaral </b></sub></a><br /><a  href="https://github.com/Arthur-Amaral-cloud" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+ <td  align="center"><a  href= "https://github.com/Arthur-Amaral-cloud" ><img src="https://avatars.githubusercontent.com/u/198659994?v=4"  border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Arthur Amaral </b></sub></a><br /><a  href="https://github.com/Arthur-Amaral-cloud" ><img  src="https://avatars.githubusercontent.com/u/199304355?v=4"  width="20"/></a>
  </td>
  
  
- <td  align="center"><a  href="https://github.com/davi-domingues" ><img src="https://avatars.githubusercontent.com/u/112140354?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Davi Domingues </b></sub></a><br /><a  href="https://github.com/davi-domingues" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+ <td  align="center"><a  href="https://github.com/davi-domingues" ><img src="https://avatars.githubusercontent.com/u/112140354?v=4" border-radius="50%"; height="120px"; width="100px;"/><br/><sub><b> Davi Domingues </b></sub></a><br /><a  href="https://github.com/davi-domingues" ><img  src="https://avatars.githubusercontent.com/u/199102013?v=4"  width="20"/></a>
  </td>
  
  
- <td  align="center"><a  href="https://github.com/giovannasptech" ><img src="https://i.imgur.com/peUQrIn.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Giovanna Andrade </b></sub></a><br /><a  href="https://github.com/giovannasptech" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
+ <td  align="center"><a  href="https://github.com/giovannasptech" ><img src="https://i.imgur.com/peUQrIn.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Giovanna Andrade </b></sub></a><br /><a  href="https://github.com/giovannasptech" ><img  src="https://avatars.githubusercontent.com/u/199615302?v=4"  width="20"/></a>
  </td>
  
  
