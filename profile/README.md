@@ -61,7 +61,6 @@ Além do aumento da eficiência no uso da água, o SmartBerry contribui para a s
 Na aba sobre nós é onde estarão as informações de como o projeto surgiu, missão, valores e a equipe por trás da smartberry
 </p>
 <img src="https://i.imgur.com/zpt28cX.png" />
-<img src="https://i.imgur.com/sxAmvNF.png" />
 
 ## 🧑‍💼Cadastro e Login
 <p>
