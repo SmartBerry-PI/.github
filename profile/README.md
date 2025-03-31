@@ -109,7 +109,7 @@ Consulte nossas tabelas nos repositorios
  </td>
  <td  align="center"><a  href="https://github.com/Marialuizagoes31" ><img  src="https://i.imgur.com/Y6WVckH.png" border-radius="50%";  height="120px"; width="100px;"/><br/><sub><b> Maria </b></sub></a><br /><a  href="https://github.com/Marialuizagoes31" ><img  src="https://www.svgrepo.com/show/439171/github.svg"  width="20"/></a>
  </td>
- </table>
+ </table><br>
 ## 🗒️ Tecnologias usadas no projeto
 
 <img 
